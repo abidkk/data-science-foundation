@@ -1,4 +1,4 @@
-# data-science-foundation
+# Data Science Foundation
 Hands-on Data Science &amp; ML learning projects: Python, Statistics, Data Preprocessing, EDA, and core ML algorithms
 \
 
